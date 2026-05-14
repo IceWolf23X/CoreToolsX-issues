@@ -25,6 +25,16 @@ This GitHub repository is kept only for issue tracking.
 
 ---
 
+## Resource Pack Addon
+
+CoreToolsX includes an optional resource pack addon for servers using the REAL_TIER inventory model mode.
+
+> **Download:** https://github.com/IceWolf23X/CoreToolsX-issues/releases/download/coretoolsx-resource-pack-2026.1.0/CoreToolsX-resource-pack-2026.1.0.zip
+
+The resource pack is not required for the default plugin setup.
+
+---
+
 ## Issue Tracking
 
 Use the GitHub **Issues** section to report problems, request improvements, or track known bugs.
